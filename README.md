@@ -5,6 +5,8 @@ It exploits the fact that your rolls are made on your computer.
 
 Was already reported to roll20 staff. 
 
+![Screenshot](https://media.discordapp.net/attachments/589179848484716585/904833416313307146/unknown.png)
+
 *P.S. Don't use this tool maliciously. It really degrades the quality of the game, but you are a big boy so you won't use it to ruin the fun of other players, right? :P*
 ---
 ## How to setup
